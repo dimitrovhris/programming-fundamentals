@@ -6,6 +6,6 @@ public class Ex06CharsToString {
         char a = sc.nextLine().charAt(0);
         char b = sc.nextLine().charAt(0);
         char c = sc.nextLine().charAt(0);
-        System.out.printf("%c%c%h", a, b, c);
+        System.out.printf("%c%c%c", a, b, c);
     }
 }
