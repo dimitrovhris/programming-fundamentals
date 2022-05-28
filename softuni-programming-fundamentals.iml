@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/basic-syntax">
+      <sourceFolder url="file://$MODULE_DIR$/basic-syntax" isTestSource="false" packagePrefix="basicSynatx" />
+    </content>
+    <content url="file://$MODULE_DIR$/basic-syntax-ex">
+      <sourceFolder url="file://$MODULE_DIR$/basic-syntax-ex" isTestSource="false" packagePrefix="basicSyntaxEx" />
+    </content>
+    <content url="file://$MODULE_DIR$/basic-syntax-more-ex">
+      <sourceFolder url="file://$MODULE_DIR$/basic-syntax-more-ex" isTestSource="false" packagePrefix="basicSyntaxEx" />
+    </content>
+    <content url="file://$MODULE_DIR$/data-types">
+      <sourceFolder url="file://$MODULE_DIR$/data-types" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
